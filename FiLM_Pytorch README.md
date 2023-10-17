@@ -18,7 +18,7 @@ Dataset : CLEVR Dataset
 
 - FiLM learns functions f and h which output gamma and beta as a function of input x.
 
-![Untitled](img width="809" alt="Untitled 1" src="https://github.com/aerojohn1223/CVModels-byPytorch/assets/82106824/82ee303f-42df-4379-ba04-81d6e903359d")
+![Untitled]("https://github.com/aerojohn1223/CVModels-byPytorch/assets/82106824/82ee303f-42df-4379-ba04-81d6e903359d")
 
 - i = ith input, c = cth feature.
 - gamma and beta modulates neural network’s activation functions via feature-wise affine transformation.
